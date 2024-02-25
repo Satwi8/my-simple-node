@@ -1,0 +1,19 @@
+{
+  "name": "amsimplenode",
+  "version": "1.0.0",
+  "description": "Simple utility functions that can use node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satwi8/my-simple-node.git"
+  },
+  "author": "SATWI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Satwi8/my-simple-node/issues"
+  },
+  "homepage": "https://github.com/Satwi8/my-simple-node#readme"
+}
